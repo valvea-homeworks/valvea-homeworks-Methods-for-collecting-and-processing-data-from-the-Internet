@@ -1,1 +1,1 @@
-# valvea-homeworks-Methods-for-collecting-and-processing-data-from-the-Internet
+# Домашние задания к курсу Методы сбора и обработки данных из сети Интернет
